@@ -1,8 +1,8 @@
-### <div align="center">Hello 👋
-I'm William, a web and mobile developer in training 👨‍💻</div>  
+# <div align="center">Hello 👋 </div>
+<div align="center">I'm William, a web and mobile developer in training 👨‍💻</div>  
   
 
-- 📚 I’m currently in training at CCI Formation Lyon Vaise  
+#### <div align="center">📚 I’m currently in training at CCI Formation Lyon Vaise 📚</div>  
   
 
 <br/>  
@@ -48,6 +48,3 @@ I'm William, a web and mobile developer in training 👨‍💻</div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eddykoneko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
